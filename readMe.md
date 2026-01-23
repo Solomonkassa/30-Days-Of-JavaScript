@@ -42,16 +42,16 @@
 
 <div align="center">
   <h1> 30 Days Of JavaScript: Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/solomonmulukassa/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Solomonmulu">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/solomonmulu?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<a href="https://www.linkedin.com/in/solomonmulukassa/" target="_blank">Solomon Kassa</a><br>
+<small> January, 2026</small>
 </sub>
 
 <div>
@@ -156,7 +156,7 @@ After downloading double click and install
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
 
 ```sh
-asabeneh $ node -v
+Solomon $ node -v
 v12.14.0
 ```
 
@@ -477,9 +477,9 @@ A collection of one or more characters between two single quotes, double quotes,
 
 ```js
 'a'
-'Asabeneh'
-"Asabeneh"
-'Finland'
+'Solomon'
+"Solomon"
+'Ethiopia'
 'JavaScript is a beautiful programming language'
 'I love teaching'
 'I hope you are enjoying the first day'
@@ -523,7 +523,7 @@ let emptyValue = null
 To check the data type of a certain variable, we use the **typeof** operator. See the following example.
 
 ```js
-console.log(typeof 'Asabeneh') // string
+console.log(typeof 'Solomon') // string
 console.log(typeof 5) // number
 console.log(typeof true) // boolean
 console.log(typeof null) // object type
@@ -540,17 +540,17 @@ There are two ways of commenting:
 
 ```js
 // commenting the code itself with a single comment
-// let firstName = 'Asabeneh'; single line comment
-// let lastName = 'Yetayeh'; single line comment
+// let firstName = 'Solomon'; single line comment
+// let lastName = 'Kassa'; single line comment
 ```
 
 Multiline commenting:
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Addis Ababa';
   let age = 100;
-  let isMarried = true;
+  let isMarried = false;
   This is a Multiple line comment
 */
 ```
@@ -615,10 +615,10 @@ The nameOfVriable is the name that stores different data of value. See below for
 
 ```js
 // Declaring different variables of different data types
-let firstName = 'Asabeneh' // first name of a person
-let lastName = 'Yetayeh' // last name of a person
-let country = 'Finland' // country
-let city = 'Helsinki' // capital city
+let firstName = 'Solomon ' // first name of a person
+let lastName = 'Kassa' // last name of a person
+let country = 'Ethiopia' // country
+let city = 'Addis Ababa' // capital city
 let age = 100 // age in years
 let isMarried = true
 
@@ -626,7 +626,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Asabeneh Yetayeh Finland Helsinki 100 true
+Solomon Kassa Ethiopia Addis Ababa 100 true
 ```
 
 ```js
@@ -644,12 +644,12 @@ console.log(gravity, boilingPoint, PI)
 
 ```js
 // Variables can also be declaring in one line separated by comma, however I recommend to use a seperate line to make code more readble
-let name = 'Asabeneh', job = 'teacher', live = 'Finland'
+let name = 'Solomon Kassa', job = 'teacher', live = 'Addis Ababa'
 console.log(name, job, live)
 ```
 
 ```sh
-Asabeneh teacher Finland
+Solomon Kassa teacher Addis Ababa
 ```
 
 When you run _index.html_ file in the 01-Day folder you should get this:
