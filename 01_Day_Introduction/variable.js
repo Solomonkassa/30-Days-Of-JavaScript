@@ -1,8 +1,8 @@
 // Declaring different variables of different data types
-let firstName = 'Asabeneh' // first name of a person
-let lastName = 'Yetayeh' // last name of a person
-let country = 'Finland' // country
-let city = 'Helsinki' // capital city
+let firstName = 'Jedan' // first name of a person
+let lastName = 'Academy' // last name of a person
+let country = 'Ethiopia' // country
+let city = 'Addis Ababa' // capital city
 let age = 100 // age in years
 let isMarried = true
 
@@ -12,6 +12,6 @@ const boilingPoint = 100 // water boiling point, temperature in oC
 const PI = 3.14 // geometrical constant
 
 // Variables can also be declaring in one line separated by comma
-let name = 'Asabeneh', //name of a person
+let name = 'Jedan', //name of a person
   job = 'teacher',
-  live = 'Finland'
+  live = 'Ethiopia'
