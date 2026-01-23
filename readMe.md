@@ -48,11 +48,6 @@
     <img src="https://img.shields.io/badge/Website-jedanacademy.com-blue">
   </a>
 
-<sub>Created by:
-<a href="https://www.jedanacademy.com/" target="_blank">Jedan Code Academy</a><br>
-<small> January, 2026</small>
-</sub>
-
 <div>
 
 
